@@ -1,5 +1,5 @@
 import React from "react";
-import Test from "kanishkthapa-comp-test1/src/comp/test";
+import Test from ".comp/test";
 function App() {
   return (
     <div>
